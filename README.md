@@ -9,9 +9,14 @@ MY DATA ANALYSIS JOURNEY
 ### Case Study 1: Amazon Product Review Analysis
 #### Objective:
 Analyse product and customer review data to generate insights that can guide
-i.	product improvement, 
-ii.	marketing strategies, and 
-iii.	customer engagement.
+- i.	product improvement, 
+- ii.	marketing strategies, and 
+- iii.	customer engagement.
 #### Dataset:
-Total Records: 1,465 rows
-Total Fields: 16 columns
+- Total Records: 1,465 rows
+- Total Fields: 16 columns
+### Data Source
+- DSA LMS
+### Tools
+- Excel
+- Pivot table
